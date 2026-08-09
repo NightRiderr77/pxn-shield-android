@@ -66,22 +66,8 @@ prompt is the system's, and the permission can be revoked afterwards.
 4. On first connect, Android asks permission to set up a VPN. That prompt is the
    system's, and it is how every VPN app on Android works.
 
-### Verifying what you downloaded
-
-Every release is signed with the same key. You can check that an APK really came
-from us:
-
-```bash
-apksigner verify --print-certs PXN-Shield-VPN_1.0.0_arm64-v8a.apk
-```
-
-The SHA-256 of the signing certificate should be:
-
-```
-81:9F:B4:94:F9:D6:49:F0:FA:17:11:9C:40:90:86:18:D1:4B:E9:C2:8A:7D:B3:A9:B6:33:D3:27:75:2A:5F:2D
-```
-
-If it differs, the file was not built by us — delete it.
+Only download from the releases page on this repository. An APK for PXN Shield
+from anywhere else was not built by us.
 
 ## Updating
 
