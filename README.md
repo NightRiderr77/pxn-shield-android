@@ -7,9 +7,9 @@ links to paste, no files to import, no QR codes to scan.
 **[Download the latest release →](https://github.com/NightRiderr77/pxn-shield-android/releases/latest)**
 
 <p align="center">
-  <img src="docs/screenshots/connect.png" width="30%" alt="Connect screen showing two servers and a dot-matrix connect control">
-  <img src="docs/screenshots/usage.png" width="30%" alt="Usage screen showing the account allowance ring and a daily traffic chart">
-  <img src="docs/screenshots/sign-in.png" width="30%" alt="Sign-in screen with email, password and Continue with Google">
+  <img src="docs/screenshots/1.0.0/connect.png" width="30%" alt="Connect screen showing a config and the dot-matrix connect control">
+  <img src="docs/screenshots/1.0.0/usage.png" width="30%" alt="Usage screen showing the account allowance ring and a daily traffic chart">
+  <img src="docs/screenshots/1.0.0/sign-in.png" width="30%" alt="Sign-in screen with email, password and Continue with Google">
 </p>
 
 ---
@@ -30,7 +30,7 @@ locally as the tunnel runs. Touch any bar for that day's total and its date. Thi
 one is the phone's own count, not the account's — the label says so.
 
 **Routing you can change from the phone.** Configs that support it can be switched
-between a Cloudflare Warp+ route and a Sri Lankan exit without opening the website.
+between a Cloudflare Warp+ route and a Sri Lankan IP without opening the website.
 The daily switch allowance is shown before you spend one.
 
 **Per-app split tunnelling.** Choose which apps go through the tunnel and which go
