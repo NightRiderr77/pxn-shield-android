@@ -100,7 +100,7 @@ Full policy: [pxnstores.lk/privacy](https://www.pxnstores.lk/privacy)
 ## Support
 
 - **WhatsApp** — [+94 76 154 6544](https://wa.me/94761546544)
-- **Setup guides** — [pxnstores.lk/v2ray/setup-guides](https://www.pxnstores.lk/v2ray/setup-guides)
+- **Setup guides** — [pxnstores.lk](https://www.pxnstores.lk/v2ray/setup-guides)
 - **Bugs and requests** — [open an issue](https://github.com/NightRiderr77/pxn-shield-android/issues)
 - **Happy with it?** — [leave a review](https://www.trustpilot.com/evaluate/pxnstores.lk)
 
