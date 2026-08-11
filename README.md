@@ -7,9 +7,9 @@ links to paste, no files to import, no QR codes to scan.
 **[Download the latest release →](https://github.com/NightRiderr77/pxn-shield-android/releases/latest)**
 
 <p align="center">
-  <img src="docs/screenshots/1.0.0/connect.png" width="30%" alt="Connect screen showing a config and the dot-matrix connect control">
-  <img src="docs/screenshots/1.0.0/usage.png" width="30%" alt="Usage screen showing the account allowance ring and a daily traffic chart">
-  <img src="docs/screenshots/1.0.0/sign-in.png" width="30%" alt="Sign-in screen with email, password and Continue with Google">
+  <img src="docs/screenshots/1.1.3/connect.png" width="30%" alt="Connect screen showing the selected config, the connect control and the list of configs on the phone">
+  <img src="docs/screenshots/1.1.3/store.png" width="30%" alt="Store screen showing Airtel, Dialog, Hutch and SLT packages with prices">
+  <img src="docs/screenshots/1.1.3/guide.png" width="30%" alt="Tutorials and info screen with English, Sinhala and Tamil language options">
 </p>
 
 ---
@@ -19,6 +19,16 @@ links to paste, no files to import, no QR codes to scan.
 **Your configs arrive with your account.** Sign in with email and password or with
 Google, and every active config on your PXN account is pulled down and named after
 the product you bought. Buy another plan and it appears on the next sync.
+
+**Buy and renew without leaving the app.** Pick your network, pick a package, pick
+how much data, pay, attach the slip. The order lands in your purchase history on
+pxnstores.lk exactly as if you had bought it in a browser, and orders still being
+processed are listed under the packages until the config arrives. Renewing is on
+the config itself and keeps the same server and link.
+
+**A guide in three languages.** **More → Tutorials & info** explains every screen,
+the whole ordering process, what the transfer remark is for and what to try when
+something is not right — in English, Sinhala or Tamil, whichever you pick.
 
 **You can see what you have left.** Every config shows what it has used against its
 allowance and how many days remain, and the account total is on one ring. The
