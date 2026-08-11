@@ -9,7 +9,7 @@ links to paste, no files to import, no QR codes to scan.
 <p align="center">
   <img src="docs/screenshots/1.1.3/connect.png" width="30%" alt="Connect screen showing the selected config, the connect control and the list of configs on the phone">
   <img src="docs/screenshots/1.1.3/store.png" width="30%" alt="Store screen showing Airtel, Dialog, Hutch and SLT packages with prices">
-  <img src="docs/screenshots/1.1.3/guide.png" width="30%" alt="Tutorials and info screen with English, Sinhala and Tamil language options">
+  <img src="docs/screenshots/1.1.3/usage.png" width="30%" alt="Usage info, routing and renewal">
 </p>
 
 ---
