@@ -7,9 +7,10 @@ links to paste, no files to import, no QR codes to scan.
 **[Download the latest release →](https://github.com/NightRiderr77/pxn-shield-android/releases/latest)**
 
 <p align="center">
-  <img src="docs/screenshots/1.1.3/connect.png" width="30%" alt="Connect screen showing the selected config, the connect control and the list of configs on the phone">
-  <img src="docs/screenshots/1.1.3/store.png" width="30%" alt="Store screen showing Airtel, Dialog, Hutch and SLT packages with prices">
-  <img src="docs/screenshots/1.1.3/usage.png" width="30%" alt="Usage info, routing and renewal">
+  <img src="docs/screenshots/1.1.5/connect.png" width="24%" alt="Connect screen showing the selected config, the connect control and the list of configs on the phone">
+  <img src="docs/screenshots/1.1.5/usage.png" width="24%" alt="Usage screen showing the account allowance ring, upload and download totals and a daily traffic chart">
+  <img src="docs/screenshots/1.1.5/store.png" width="24%" alt="Store screen showing Airtel, Dialog, Hutch and SLT packages with prices">
+  <img src="docs/screenshots/1.1.5/guide.png" width="24%" alt="Tutorials and info screen with English, Sinhala and Tamil language options">
 </p>
 
 ---
