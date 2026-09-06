@@ -87,6 +87,7 @@ Full policy: [pxnstores.lk/privacy][privacy]
 | | |
 |---|---|
 | **Android** | you are here |
+| **Linux** | [pxn-shield-linux][linux] |
 | **Windows** | [pxn-shield-windows][windows] |
 
 ---
@@ -105,6 +106,7 @@ Third-party licences are listed in the app under **About → Open Source license
 [latest]: https://github.com/NightRiderr77/pxn-shield-android/releases/latest
 [releases]: https://github.com/NightRiderr77/pxn-shield-android/releases
 [issues]: https://github.com/NightRiderr77/pxn-shield-android/issues
+[linux]: https://github.com/NightRiderr77/pxn-shield-linux
 [windows]: https://github.com/NightRiderr77/pxn-shield-windows
 [site]: https://www.pxnstores.lk
 [privacy]: https://www.pxnstores.lk/privacy
